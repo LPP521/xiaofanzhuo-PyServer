@@ -1,6 +1,8 @@
 xiaofanzhuo-PyServer
 ====================
 
+Android服务端：
+
 新版小饭桌服务端 based on Python
 
 1、利用Tornado搭建了HTTP服务端；
